@@ -2,7 +2,7 @@
 
 # H1 
 
-**Simple text**
+__Simple text__
 
 ## H2
 ### H3
