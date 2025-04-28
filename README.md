@@ -1,6 +1,6 @@
-# Hello GIT Github
+# Hello GIT Github - Merge
 
-# H1 
+# H1
 ## H2
 ### H3
 
